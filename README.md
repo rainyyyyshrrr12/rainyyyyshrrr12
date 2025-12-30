@@ -6,9 +6,7 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** **EchoMeet** — a video conferencing and collaboration app built with **React**, **Node.js**, **Firebase**, and **WebRTC**.  
-  > Stay tuned for release 🚀  
+### 🚀 About Me 
 - 🌱 **Currently learning:** Generative AI integration, Real-Time Web Apps, and Advanced React + Node.js patterns,Real-Time Communication Systems (WebRTC), System Design 
 - 👯 **Looking to collaborate on:** AI-powered tools, Real-time Communication Systems, and Open-Source Web Apps  
 - 💬 **Ask me about:** MERN Stack, AI/ML Integration, Firebase, or Full-Stack Project Architecture  
